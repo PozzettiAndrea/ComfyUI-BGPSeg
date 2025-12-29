@@ -1,3 +1,7 @@
+----------
+Work in Progress! This node is not finished.
+----------
+
 # ComfyUI-BGPSeg
 
 Boundary-guided primitive segmentation for point clouds.
@@ -32,6 +36,12 @@ pip install -r ComfyUI-BGPSeg/requirements.txt
 - trimesh>=3.20.0
 - gdown>=4.7.0
 - CUDA toolkit (for JIT-compiled extensions)
+
+## Community
+
+Questions or feature requests? Open a [Discussion](https://github.com/PozzettiAndrea/ComfyUI-BGPSeg/discussions) on GitHub.
+
+Join the [Comfy3D Discord](https://discord.gg/PN743tE5) for help, updates, and chat about 3D workflows in ComfyUI.
 
 ## Credits
 

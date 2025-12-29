@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-bgpseg"
-description = "BGPSeg: Boundary-Guided Primitive Segmentation - Originally from ComfyUI-CADabra"
+description = "THIS NODE IS WIP. BGPSeg: Boundary-Guided Primitive Segmentation, originally from ComfyUI-CADabra."
 version = "1.0.0"
 license = {file = "LICENSE"}
 requires-python = ">=3.10"
